@@ -1,2 +1,2 @@
 # learn-python
-here's repo for code python.
+here's repo for my python code.
